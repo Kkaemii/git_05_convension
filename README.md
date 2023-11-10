@@ -153,14 +153,14 @@ ___
 6. clone <원격저장소><브랜치>  
 
    원격에서 로컬로 복제
-
+   
  
 
-7. status  
+8. status  
 
    Staging Area의 상태
 
-8. log  
+9. log  
 
    repository의 상태
 
